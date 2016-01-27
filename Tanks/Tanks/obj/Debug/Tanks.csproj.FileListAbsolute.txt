@@ -1,0 +1,13 @@
+E:\projects\Tanks\Tanks\bin\Debug\Tanks.exe.config
+E:\projects\Tanks\Tanks\bin\Debug\Tanks.exe
+E:\projects\Tanks\Tanks\bin\Debug\Tanks.pdb
+E:\projects\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+E:\projects\Tanks\Tanks\obj\Debug\Tanks.View.resources
+E:\projects\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.Cache
+E:\projects\Tanks\Tanks\obj\Debug\Tanks.exe
+E:\projects\Tanks\Tanks\obj\Debug\Tanks.pdb
+E:\projects\Tanks\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+E:\projects\Tanks\Tanks\bin\Debug\Tanks.exe.manifest
+E:\projects\Tanks\Tanks\bin\Debug\Tanks.application
+E:\projects\Tanks\Tanks\obj\Debug\Tanks.exe.manifest
+E:\projects\Tanks\Tanks\obj\Debug\Tanks.application
